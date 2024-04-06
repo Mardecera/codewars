@@ -1,3 +1,5 @@
+// Only work until exercise "0010".
+
 const Test = {
 	myFunction: function () {},
 
